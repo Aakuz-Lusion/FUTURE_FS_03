@@ -1,4 +1,3 @@
-# Update main.jsx to use HashRouter properly
 @"
 import React from 'react'
 import ReactDOM from 'react-dom/client'
